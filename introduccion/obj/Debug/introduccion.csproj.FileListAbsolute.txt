@@ -1,0 +1,12 @@
+C:\Users\luis-\OneDrive\Escritorio\act lineal\programacion_1\introduccion\bin\Debug\introduccion.exe.config
+C:\Users\luis-\OneDrive\Escritorio\act lineal\programacion_1\introduccion\bin\Debug\introduccion.exe
+C:\Users\luis-\OneDrive\Escritorio\act lineal\programacion_1\introduccion\bin\Debug\introduccion.pdb
+C:\Users\luis-\OneDrive\Escritorio\act lineal\programacion_1\introduccion\obj\Debug\introduccion.csproj.AssemblyReference.cache
+C:\Users\luis-\OneDrive\Escritorio\act lineal\programacion_1\introduccion\obj\Debug\introduccion.Form1.resources
+C:\Users\luis-\OneDrive\Escritorio\act lineal\programacion_1\introduccion\obj\Debug\introduccion.Properties.Resources.resources
+C:\Users\luis-\OneDrive\Escritorio\act lineal\programacion_1\introduccion\obj\Debug\introduccion.csproj.GenerateResource.cache
+C:\Users\luis-\OneDrive\Escritorio\act lineal\programacion_1\introduccion\obj\Debug\introduccion.csproj.CoreCompileInputs.cache
+C:\Users\luis-\OneDrive\Escritorio\act lineal\programacion_1\introduccion\obj\Debug\introduccion.exe
+C:\Users\luis-\OneDrive\Escritorio\act lineal\programacion_1\introduccion\obj\Debug\introduccion.pdb
+C:\Users\luis-\OneDrive\Escritorio\act lineal\programacion_1\introduccion\obj\Debug\introduccion.Form2.resources
+C:\Users\luis-\OneDrive\Escritorio\act lineal\programacion_1\introduccion\obj\Debug\introduccion.Form3.resources
