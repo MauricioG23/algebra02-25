@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\luis-\\OneDrive\\Escritorio\\act lineal\\programacion_1\\introduccion\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BE518E10-EA9F-4CE5-956E-53B092F6CFFE}|introduccion.csproj|C:\\Users\\luis-\\OneDrive\\Escritorio\\act lineal\\programacion_1\\introduccion\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE518E10-EA9F-4CE5-956E-53B092F6CFFE}|introduccion.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE518E10-EA9F-4CE5-956E-53B092F6CFFE}|introduccion.csproj|C:\\Users\\luis-\\OneDrive\\Escritorio\\act lineal\\programacion_1\\introduccion\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE518E10-EA9F-4CE5-956E-53B092F6CFFE}|introduccion.csproj|solutionrelative:form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BE518E10-EA9F-4CE5-956E-53B092F6CFFE}|introduccion.csproj|c:\\users\\luis-\\onedrive\\escritorio\\act lineal\\programacion_1\\introduccion\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE518E10-EA9F-4CE5-956E-53B092F6CFFE}|introduccion.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE518E10-EA9F-4CE5-956E-53B092F6CFFE}|introduccion.csproj|c:\\users\\luis-\\onedrive\\escritorio\\act lineal\\programacion_1\\introduccion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BE518E10-EA9F-4CE5-956E-53B092F6CFFE}|introduccion.csproj|C:\\Users\\luis-\\OneDrive\\Escritorio\\act lineal\\programacion_1\\introduccion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE518E10-EA9F-4CE5-956E-53B092F6CFFE}|introduccion.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE518E10-EA9F-4CE5-956E-53B092F6CFFE}|introduccion.csproj|c:\\users\\luis-\\onedrive\\escritorio\\act lineal\\programacion_1\\introduccion\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BE518E10-EA9F-4CE5-956E-53B092F6CFFE}|introduccion.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE518E10-EA9F-4CE5-956E-53B092F6CFFE}|introduccion.csproj|c:\\users\\luis-\\onedrive\\escritorio\\act lineal\\programacion_1\\introduccion\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE518E10-EA9F-4CE5-956E-53B092F6CFFE}|introduccion.csproj|solutionrelative:form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\luis-\\OneDrive\\Escritorio\\act lineal\\programacion_1\\introduccion\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -44,6 +44,22 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form3.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\luis-\\OneDrive\\Escritorio\\act lineal\\programacion_1\\introduccion\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "C:\\Users\\luis-\\OneDrive\\Escritorio\\act lineal\\programacion_1\\introduccion\\Form3.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form3.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T16:35:01.584Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form3.cs",
               "DocumentMoniker": "C:\\Users\\luis-\\OneDrive\\Escritorio\\act lineal\\programacion_1\\introduccion\\Form3.cs",
               "RelativeDocumentMoniker": "Form3.cs",
@@ -56,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Form3.Designer.cs",
               "DocumentMoniker": "C:\\Users\\luis-\\OneDrive\\Escritorio\\act lineal\\programacion_1\\introduccion\\Form3.Designer.cs",
               "RelativeDocumentMoniker": "Form3.Designer.cs",
@@ -66,18 +82,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-10T16:35:42.359Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form3.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\luis-\\OneDrive\\Escritorio\\act lineal\\programacion_1\\introduccion\\Form3.cs",
-              "RelativeDocumentMoniker": "Form3.cs",
-              "ToolTip": "C:\\Users\\luis-\\OneDrive\\Escritorio\\act lineal\\programacion_1\\introduccion\\Form3.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Form3.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T16:35:01.584Z",
-              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }

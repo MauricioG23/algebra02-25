@@ -1,0 +1,10 @@
+C:\Users\luis-\OneDrive\Escritorio\act lineal\programacion_1\introduccion\martes\obj\Debug\martes.csproj.AssemblyReference.cache
+C:\Users\luis-\OneDrive\Escritorio\act lineal\programacion_1\introduccion\martes\obj\Debug\martes.Form1.resources
+C:\Users\luis-\OneDrive\Escritorio\act lineal\programacion_1\introduccion\martes\obj\Debug\martes.Properties.Resources.resources
+C:\Users\luis-\OneDrive\Escritorio\act lineal\programacion_1\introduccion\martes\obj\Debug\martes.csproj.GenerateResource.cache
+C:\Users\luis-\OneDrive\Escritorio\act lineal\programacion_1\introduccion\martes\obj\Debug\martes.csproj.CoreCompileInputs.cache
+C:\Users\luis-\OneDrive\Escritorio\act lineal\programacion_1\introduccion\martes\bin\Debug\martes.exe.config
+C:\Users\luis-\OneDrive\Escritorio\act lineal\programacion_1\introduccion\martes\bin\Debug\martes.exe
+C:\Users\luis-\OneDrive\Escritorio\act lineal\programacion_1\introduccion\martes\bin\Debug\martes.pdb
+C:\Users\luis-\OneDrive\Escritorio\act lineal\programacion_1\introduccion\martes\obj\Debug\martes.exe
+C:\Users\luis-\OneDrive\Escritorio\act lineal\programacion_1\introduccion\martes\obj\Debug\martes.pdb
